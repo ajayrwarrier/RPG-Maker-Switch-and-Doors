@@ -17,11 +17,6 @@ Don't forget to turn on Self Switch in the second Event.
 
 //DOOR CONTROL FOR TWO SWTICH
 
-/*
-
-
-*/
-
 // Door Event 1 Script: 
 
 state1 = $gameSelfSwitches.value([1,2,'A']);  //Switch 1 Value
