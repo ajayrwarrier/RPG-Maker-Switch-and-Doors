@@ -1,2 +1,1 @@
-# BananasAcademy
- Bananas Academy Game Mechanics
+RPG Maker Switch and Doors Mechanics
